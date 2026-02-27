@@ -1,0 +1,51 @@
+case_id,activity,timestamp,resource
+RETURN_001,Return Request Raised,2024-05-01 10:00:00,Customer_Portal
+RETURN_001,Request Acknowledged,2024-05-01 10:05:00,System_Bot
+RETURN_001,Return Reason Verified,2024-05-01 14:00:00,CS_Agent_Meera
+RETURN_001,Pickup Scheduled,2024-05-02 09:00:00,CS_Agent_Meera
+RETURN_001,Item Picked Up,2024-05-03 11:00:00,Logistics_A
+RETURN_001,Item Received at Warehouse,2024-05-04 14:00:00,Warehouse_Staff
+RETURN_001,Quality Inspection,2024-05-06 10:00:00,QC_Inspector_A
+RETURN_001,Refund Initiated,2024-05-06 15:00:00,Finance_Team
+RETURN_001,Refund Credited,2024-05-08 12:00:00,Payment_Gateway
+RETURN_001,Case Closed,2024-05-08 12:30:00,System_Bot
+RETURN_002,Return Request Raised,2024-05-02 09:00:00,Customer_Portal
+RETURN_002,Request Acknowledged,2024-05-02 09:02:00,System_Bot
+RETURN_002,Return Reason Verified,2024-05-02 11:00:00,CS_Agent_Rohan
+RETURN_002,Pickup Scheduled,2024-05-03 10:00:00,CS_Agent_Rohan
+RETURN_002,Item Picked Up,2024-05-05 09:00:00,Logistics_B
+RETURN_002,Item Received at Warehouse,2024-05-06 11:00:00,Warehouse_Staff
+RETURN_002,Quality Inspection,2024-05-09 09:00:00,QC_Inspector_B
+RETURN_002,Refund Initiated,2024-05-09 14:00:00,Finance_Team
+RETURN_002,Refund Credited,2024-05-11 10:00:00,Payment_Gateway
+RETURN_002,Case Closed,2024-05-11 10:20:00,System_Bot
+RETURN_003,Return Request Raised,2024-05-03 14:00:00,Customer_Portal
+RETURN_003,Request Acknowledged,2024-05-03 14:03:00,System_Bot
+RETURN_003,Return Reason Verified,2024-05-04 09:00:00,CS_Agent_Meera
+RETURN_003,Pickup Scheduled,2024-05-05 11:00:00,CS_Agent_Meera
+RETURN_003,Item Picked Up,2024-05-07 10:00:00,Logistics_A
+RETURN_003,Item Received at Warehouse,2024-05-08 14:00:00,Warehouse_Staff
+RETURN_003,Quality Inspection,2024-05-12 09:00:00,QC_Inspector_A
+RETURN_003,Refund Initiated,2024-05-12 15:00:00,Finance_Team
+RETURN_003,Refund Credited,2024-05-15 11:00:00,Payment_Gateway
+RETURN_003,Case Closed,2024-05-15 11:15:00,System_Bot
+RETURN_004,Return Request Raised,2024-05-04 10:00:00,Customer_Portal
+RETURN_004,Request Acknowledged,2024-05-04 10:01:00,System_Bot
+RETURN_004,Return Reason Verified,2024-05-04 13:00:00,CS_Agent_Rohan
+RETURN_004,Pickup Scheduled,2024-05-05 09:00:00,CS_Agent_Rohan
+RETURN_004,Item Picked Up,2024-05-06 11:00:00,Logistics_B
+RETURN_004,Item Received at Warehouse,2024-05-07 14:00:00,Warehouse_Staff
+RETURN_004,Quality Inspection,2024-05-09 10:00:00,QC_Inspector_B
+RETURN_004,Refund Initiated,2024-05-09 16:00:00,Finance_Team
+RETURN_004,Refund Credited,2024-05-12 09:00:00,Payment_Gateway
+RETURN_004,Case Closed,2024-05-12 09:20:00,System_Bot
+RETURN_005,Return Request Raised,2024-05-05 11:00:00,Customer_Portal
+RETURN_005,Request Acknowledged,2024-05-05 11:02:00,System_Bot
+RETURN_005,Return Reason Verified,2024-05-07 10:00:00,CS_Agent_Meera
+RETURN_005,Pickup Scheduled,2024-05-09 09:00:00,CS_Agent_Meera
+RETURN_005,Item Picked Up,2024-05-12 10:00:00,Logistics_A
+RETURN_005,Item Received at Warehouse,2024-05-13 15:00:00,Warehouse_Staff
+RETURN_005,Quality Inspection,2024-05-17 09:00:00,QC_Inspector_A
+RETURN_005,Refund Initiated,2024-05-17 14:00:00,Finance_Team
+RETURN_005,Refund Credited,2024-05-20 11:00:00,Payment_Gateway
+RETURN_005,Case Closed,2024-05-20 11:30:00,System_Bot

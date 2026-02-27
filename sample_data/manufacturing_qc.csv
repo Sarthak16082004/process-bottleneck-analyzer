@@ -1,0 +1,49 @@
+case_id,activity,timestamp,resource
+BATCH_001,Raw Material Received,2024-06-01 08:00:00,Store_Keeper_A
+BATCH_001,Raw Material QC Check,2024-06-01 10:00:00,QC_Team_A
+BATCH_001,Material Issued to Production,2024-06-01 13:00:00,Store_Keeper_A
+BATCH_001,Machine Setup,2024-06-01 14:00:00,Operator_Vijay
+BATCH_001,Production Run,2024-06-01 15:00:00,Operator_Vijay
+BATCH_001,In-Process Quality Check,2024-06-02 09:00:00,QC_Team_A
+BATCH_001,Rework Required,2024-06-02 11:00:00,Operator_Vijay
+BATCH_001,Final Quality Inspection,2024-06-03 09:00:00,QC_Manager
+BATCH_001,Packaging,2024-06-03 14:00:00,Packing_Team_A
+BATCH_001,Dispatch Cleared,2024-06-04 09:00:00,Dispatch_Manager
+BATCH_002,Raw Material Received,2024-06-02 08:00:00,Store_Keeper_B
+BATCH_002,Raw Material QC Check,2024-06-02 09:30:00,QC_Team_B
+BATCH_002,Material Issued to Production,2024-06-02 11:00:00,Store_Keeper_B
+BATCH_002,Machine Setup,2024-06-02 13:00:00,Operator_Ravi
+BATCH_002,Production Run,2024-06-02 14:30:00,Operator_Ravi
+BATCH_002,In-Process Quality Check,2024-06-03 10:00:00,QC_Team_B
+BATCH_002,Final Quality Inspection,2024-06-04 09:00:00,QC_Manager
+BATCH_002,Packaging,2024-06-04 13:00:00,Packing_Team_B
+BATCH_002,Dispatch Cleared,2024-06-05 09:00:00,Dispatch_Manager
+BATCH_003,Raw Material Received,2024-06-03 08:00:00,Store_Keeper_A
+BATCH_003,Raw Material QC Check,2024-06-03 11:00:00,QC_Team_A
+BATCH_003,Material Issued to Production,2024-06-03 15:00:00,Store_Keeper_A
+BATCH_003,Machine Setup,2024-06-04 08:00:00,Operator_Vijay
+BATCH_003,Production Run,2024-06-04 09:30:00,Operator_Vijay
+BATCH_003,In-Process Quality Check,2024-06-05 10:00:00,QC_Team_A
+BATCH_003,Rework Required,2024-06-05 13:00:00,Operator_Vijay
+BATCH_003,Final Quality Inspection,2024-06-07 09:00:00,QC_Manager
+BATCH_003,Packaging,2024-06-07 14:00:00,Packing_Team_A
+BATCH_003,Dispatch Cleared,2024-06-08 10:00:00,Dispatch_Manager
+BATCH_004,Raw Material Received,2024-06-04 08:30:00,Store_Keeper_B
+BATCH_004,Raw Material QC Check,2024-06-04 10:00:00,QC_Team_B
+BATCH_004,Material Issued to Production,2024-06-04 12:00:00,Store_Keeper_B
+BATCH_004,Machine Setup,2024-06-04 14:00:00,Operator_Ravi
+BATCH_004,Production Run,2024-06-04 15:30:00,Operator_Ravi
+BATCH_004,In-Process Quality Check,2024-06-05 09:00:00,QC_Team_B
+BATCH_004,Final Quality Inspection,2024-06-06 09:00:00,QC_Manager
+BATCH_004,Packaging,2024-06-06 13:30:00,Packing_Team_B
+BATCH_004,Dispatch Cleared,2024-06-07 09:00:00,Dispatch_Manager
+BATCH_005,Raw Material Received,2024-06-05 09:00:00,Store_Keeper_A
+BATCH_005,Raw Material QC Check,2024-06-05 13:00:00,QC_Team_A
+BATCH_005,Material Issued to Production,2024-06-06 09:00:00,Store_Keeper_A
+BATCH_005,Machine Setup,2024-06-06 10:30:00,Operator_Vijay
+BATCH_005,Production Run,2024-06-06 12:00:00,Operator_Vijay
+BATCH_005,In-Process Quality Check,2024-06-07 10:00:00,QC_Team_A
+BATCH_005,Rework Required,2024-06-07 14:00:00,Operator_Vijay
+BATCH_005,Final Quality Inspection,2024-06-10 09:00:00,QC_Manager
+BATCH_005,Packaging,2024-06-10 15:00:00,Packing_Team_A
+BATCH_005,Dispatch Cleared,2024-06-11 10:00:00,Dispatch_Manager

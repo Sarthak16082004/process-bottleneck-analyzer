@@ -1,0 +1,51 @@
+case_id,activity,timestamp,resource
+APPLICANT_001,Application Submitted,2024-01-05 10:00:00,Portal_System
+APPLICANT_001,Resume Screening,2024-01-08 09:00:00,HR_Anita
+APPLICANT_001,Phone Screen Scheduled,2024-01-10 11:00:00,HR_Anita
+APPLICANT_001,Phone Screen Completed,2024-01-12 14:00:00,HR_Anita
+APPLICANT_001,Technical Interview Scheduled,2024-01-16 10:00:00,HR_Manager
+APPLICANT_001,Technical Interview Done,2024-01-19 15:00:00,Tech_Panel
+APPLICANT_001,HR Round Scheduled,2024-01-23 09:00:00,HR_Manager
+APPLICANT_001,HR Round Completed,2024-01-25 11:00:00,HR_Manager
+APPLICANT_001,Offer Letter Generated,2024-01-28 10:00:00,HR_Anita
+APPLICANT_001,Offer Accepted,2024-01-30 12:00:00,Portal_System
+APPLICANT_002,Application Submitted,2024-01-06 09:30:00,Portal_System
+APPLICANT_002,Resume Screening,2024-01-10 11:00:00,HR_Anita
+APPLICANT_002,Phone Screen Scheduled,2024-01-14 09:00:00,HR_Anita
+APPLICANT_002,Phone Screen Completed,2024-01-16 10:30:00,HR_Anita
+APPLICANT_002,Technical Interview Scheduled,2024-01-22 14:00:00,HR_Manager
+APPLICANT_002,Technical Interview Done,2024-01-25 11:00:00,Tech_Panel
+APPLICANT_002,HR Round Scheduled,2024-01-29 10:00:00,HR_Manager
+APPLICANT_002,HR Round Completed,2024-01-31 14:00:00,HR_Manager
+APPLICANT_002,Offer Letter Generated,2024-02-05 09:00:00,HR_Anita
+APPLICANT_002,Offer Accepted,2024-02-07 11:00:00,Portal_System
+APPLICANT_003,Application Submitted,2024-01-07 14:00:00,Portal_System
+APPLICANT_003,Resume Screening,2024-01-12 10:00:00,HR_Ravi
+APPLICANT_003,Phone Screen Scheduled,2024-01-15 09:00:00,HR_Ravi
+APPLICANT_003,Phone Screen Completed,2024-01-17 11:00:00,HR_Ravi
+APPLICANT_003,Technical Interview Scheduled,2024-01-24 13:00:00,HR_Manager
+APPLICANT_003,Technical Interview Done,2024-01-26 15:00:00,Tech_Panel
+APPLICANT_003,HR Round Scheduled,2024-02-01 09:00:00,HR_Manager
+APPLICANT_003,HR Round Completed,2024-02-03 14:00:00,HR_Manager
+APPLICANT_003,Offer Letter Generated,2024-02-10 10:00:00,HR_Ravi
+APPLICANT_003,Offer Accepted,2024-02-12 12:00:00,Portal_System
+APPLICANT_004,Application Submitted,2024-01-08 11:00:00,Portal_System
+APPLICANT_004,Resume Screening,2024-01-09 14:00:00,HR_Anita
+APPLICANT_004,Phone Screen Scheduled,2024-01-11 10:00:00,HR_Anita
+APPLICANT_004,Phone Screen Completed,2024-01-13 15:00:00,HR_Anita
+APPLICANT_004,Technical Interview Scheduled,2024-01-17 09:00:00,HR_Manager
+APPLICANT_004,Technical Interview Done,2024-01-20 14:00:00,Tech_Panel
+APPLICANT_004,HR Round Scheduled,2024-01-24 10:00:00,HR_Manager
+APPLICANT_004,HR Round Completed,2024-01-26 11:00:00,HR_Manager
+APPLICANT_004,Offer Letter Generated,2024-01-29 09:00:00,HR_Anita
+APPLICANT_004,Offer Accepted,2024-01-31 10:00:00,Portal_System
+APPLICANT_005,Application Submitted,2024-01-10 09:00:00,Portal_System
+APPLICANT_005,Resume Screening,2024-01-16 10:00:00,HR_Ravi
+APPLICANT_005,Phone Screen Scheduled,2024-01-20 09:00:00,HR_Ravi
+APPLICANT_005,Phone Screen Completed,2024-01-23 14:00:00,HR_Ravi
+APPLICANT_005,Technical Interview Scheduled,2024-01-30 10:00:00,HR_Manager
+APPLICANT_005,Technical Interview Done,2024-02-02 15:00:00,Tech_Panel
+APPLICANT_005,HR Round Scheduled,2024-02-08 09:00:00,HR_Manager
+APPLICANT_005,HR Round Completed,2024-02-10 11:00:00,HR_Manager
+APPLICANT_005,Offer Letter Generated,2024-02-18 10:00:00,HR_Ravi
+APPLICANT_005,Offer Accepted,2024-02-20 14:00:00,Portal_System

@@ -1,0 +1,69 @@
+case_id,activity,timestamp,resource
+TICKET_001,Ticket Raised,2024-02-01 09:00:00,Employee_Portal
+TICKET_001,Auto Categorization,2024-02-01 09:01:00,System_Bot
+TICKET_001,Assigned to L1 Support,2024-02-01 09:30:00,Manager_A
+TICKET_001,L1 Investigation,2024-02-01 11:00:00,Agent_Raj
+TICKET_001,Escalated to L2,2024-02-01 14:00:00,Agent_Raj
+TICKET_001,L2 Investigation,2024-02-02 10:00:00,Agent_Priya
+TICKET_001,Fix Applied,2024-02-02 14:30:00,Agent_Priya
+TICKET_001,User Confirmation,2024-02-02 16:00:00,Employee_Portal
+TICKET_001,Ticket Closed,2024-02-02 16:30:00,System_Bot
+TICKET_002,Ticket Raised,2024-02-01 10:15:00,Employee_Portal
+TICKET_002,Auto Categorization,2024-02-01 10:16:00,System_Bot
+TICKET_002,Assigned to L1 Support,2024-02-01 10:45:00,Manager_A
+TICKET_002,L1 Investigation,2024-02-01 12:00:00,Agent_Rahul
+TICKET_002,Fix Applied,2024-02-01 13:30:00,Agent_Rahul
+TICKET_002,User Confirmation,2024-02-01 15:00:00,Employee_Portal
+TICKET_002,Ticket Closed,2024-02-01 15:10:00,System_Bot
+TICKET_003,Ticket Raised,2024-02-02 08:30:00,Employee_Portal
+TICKET_003,Auto Categorization,2024-02-02 08:31:00,System_Bot
+TICKET_003,Assigned to L1 Support,2024-02-02 09:00:00,Manager_B
+TICKET_003,L1 Investigation,2024-02-02 11:30:00,Agent_Raj
+TICKET_003,Escalated to L2,2024-02-02 15:00:00,Agent_Raj
+TICKET_003,L2 Investigation,2024-02-03 09:30:00,Agent_Priya
+TICKET_003,Escalated to L3,2024-02-03 14:00:00,Agent_Priya
+TICKET_003,L3 Expert Review,2024-02-05 10:00:00,Expert_Kumar
+TICKET_003,Fix Applied,2024-02-05 15:00:00,Expert_Kumar
+TICKET_003,User Confirmation,2024-02-05 17:00:00,Employee_Portal
+TICKET_003,Ticket Closed,2024-02-05 17:30:00,System_Bot
+TICKET_004,Ticket Raised,2024-02-03 09:00:00,Employee_Portal
+TICKET_004,Auto Categorization,2024-02-03 09:01:00,System_Bot
+TICKET_004,Assigned to L1 Support,2024-02-03 09:15:00,Manager_A
+TICKET_004,L1 Investigation,2024-02-03 10:00:00,Agent_Rahul
+TICKET_004,Fix Applied,2024-02-03 11:30:00,Agent_Rahul
+TICKET_004,User Confirmation,2024-02-03 13:00:00,Employee_Portal
+TICKET_004,Ticket Closed,2024-02-03 13:15:00,System_Bot
+TICKET_005,Ticket Raised,2024-02-04 10:00:00,Employee_Portal
+TICKET_005,Auto Categorization,2024-02-04 10:01:00,System_Bot
+TICKET_005,Assigned to L1 Support,2024-02-04 11:00:00,Manager_B
+TICKET_005,L1 Investigation,2024-02-04 14:00:00,Agent_Raj
+TICKET_005,Escalated to L2,2024-02-04 17:00:00,Agent_Raj
+TICKET_005,L2 Investigation,2024-02-05 09:00:00,Agent_Priya
+TICKET_005,Fix Applied,2024-02-05 12:00:00,Agent_Priya
+TICKET_005,User Confirmation,2024-02-05 14:00:00,Employee_Portal
+TICKET_005,Ticket Closed,2024-02-05 14:20:00,System_Bot
+TICKET_006,Ticket Raised,2024-02-05 08:00:00,Employee_Portal
+TICKET_006,Auto Categorization,2024-02-05 08:01:00,System_Bot
+TICKET_006,Assigned to L1 Support,2024-02-05 08:30:00,Manager_A
+TICKET_006,L1 Investigation,2024-02-05 09:30:00,Agent_Rahul
+TICKET_006,Fix Applied,2024-02-05 10:45:00,Agent_Rahul
+TICKET_006,User Confirmation,2024-02-05 12:00:00,Employee_Portal
+TICKET_006,Ticket Closed,2024-02-05 12:10:00,System_Bot
+TICKET_007,Ticket Raised,2024-02-06 09:30:00,Employee_Portal
+TICKET_007,Auto Categorization,2024-02-06 09:31:00,System_Bot
+TICKET_007,Assigned to L1 Support,2024-02-06 10:30:00,Manager_B
+TICKET_007,L1 Investigation,2024-02-06 13:00:00,Agent_Raj
+TICKET_007,Escalated to L2,2024-02-06 16:30:00,Agent_Raj
+TICKET_007,L2 Investigation,2024-02-07 10:00:00,Agent_Priya
+TICKET_007,Escalated to L3,2024-02-07 15:00:00,Agent_Priya
+TICKET_007,L3 Expert Review,2024-02-09 09:00:00,Expert_Kumar
+TICKET_007,Fix Applied,2024-02-09 13:00:00,Expert_Kumar
+TICKET_007,User Confirmation,2024-02-09 15:30:00,Employee_Portal
+TICKET_007,Ticket Closed,2024-02-09 16:00:00,System_Bot
+TICKET_008,Ticket Raised,2024-02-07 08:00:00,Employee_Portal
+TICKET_008,Auto Categorization,2024-02-07 08:01:00,System_Bot
+TICKET_008,Assigned to L1 Support,2024-02-07 08:20:00,Manager_A
+TICKET_008,L1 Investigation,2024-02-07 09:00:00,Agent_Rahul
+TICKET_008,Fix Applied,2024-02-07 10:30:00,Agent_Rahul
+TICKET_008,User Confirmation,2024-02-07 12:00:00,Employee_Portal
+TICKET_008,Ticket Closed,2024-02-07 12:15:00,System_Bot
